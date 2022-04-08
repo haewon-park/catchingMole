@@ -22,6 +22,7 @@
 
 #### Function
 <p align="center"><img src = "https://user-images.githubusercontent.com/65820741/162382198-e178bde9-c52f-4040-906c-3bc3c0352c0e.png"></p>
+
 1. Join membership
 2. Showing how to play
 <br>

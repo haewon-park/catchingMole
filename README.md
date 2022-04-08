@@ -11,6 +11,7 @@
 ### Contents
 #### Requirements
 <p align="center"><img src = "https://user-images.githubusercontent.com/65820741/162381656-6d3f631c-0ad4-4d9a-ade0-5899dcf83ed8.png"></p>
+
 1. Login
 2. Total waiting Room
 3. Online GAME
@@ -28,14 +29,6 @@
 ### Tools 
 1. GUI: `Java swing`
 2. Database: `SQL`
-<br>
-
-### Member Roles
-| 한지안 | 박해원 | 유근혁 | 이소영 |
-| :---- | :---- | :---- | :---- |
-| DB Schema   | Design UI    | Design UI | DB Schema |
-| Community | Map | Calendar |  Home |
-| PPT | Wiki | Server programming |  PPT |
 <br>
 
 ### Demo Video

@@ -27,7 +27,7 @@
 
 ### Tools 
 1. GUI: `Java swing`
-2. DataBAse: `SQL`
+2. Database: `SQL`
 <br>
 
 ### Member Roles
